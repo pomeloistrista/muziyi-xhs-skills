@@ -1,0 +1,17 @@
+{
+  "version": "2.0.0",
+  "base_token": "YOUR_BASE_TOKEN",
+  "topic_table_id": "YOUR_TABLE_ID",
+  "categories": [
+    "vibe Coding",
+    "驯服 GPT",
+    "Skill"
+  ],
+  "fields": {
+    "direction": "选题名称",
+    "references": "参考笔记",
+    "timing": "制作时机",
+    "category": "合集",
+    "content_type": "选题方向"
+  }
+}
